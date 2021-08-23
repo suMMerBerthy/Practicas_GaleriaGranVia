@@ -4,7 +4,7 @@
 
 # Universidad y Practicante
 
-![](https://github.com/suMMerBerthy/Practicas_GaleriaGranVia/blob/main/CARPETA-SEGUIMIENTO/Sin%20t%C3%ADtul.png)
+![](https://github.com/suMMerBerthy/Practicas_GaleriaGranVia/blob/main/CARPETA-SEGUIMIENTO/Sin titulo.png)
 
 - Universidad Nacional de Ucayali
 
@@ -26,4 +26,12 @@
 
 - Control para las versiones remotas para las Actualizaciones y Control de Avance de Practicas GitHub ![](https://github.com/suMMerBerthy/Practicas_GaleriaGranVia/blob/main/CARPETA-SEGUIMIENTO/icons8_github_32.png)
 
-- Desarollo de Actualizaciones en README para las versiones remotas mostradas Atom 
+- Desarollo de Actualizaciones en README para las versiones remotas mostradas Atom ![](https://github.com/suMMerBerthy/Practicas_GaleriaGranVia/blob/main/CARPETA-SEGUIMIENTO/icons8_atom_editor_32.png)
+
+# Actualizaciones Generales
+
+- Inicio de Proyecto
+
+- Acta de Proyecto Previo
+
+- Documentacion de Visita a la Empresa para los requerimientos previos
