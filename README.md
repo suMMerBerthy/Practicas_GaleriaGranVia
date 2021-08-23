@@ -4,7 +4,7 @@
 
 # Universidad y Practicante
 
-![](https://github.com/suMMerBerthy/Practicas_GaleriaGranVia/blob/main/CARPETA-SEGUIMIENTO/unu.png)
+.                       ![](https://github.com/suMMerBerthy/Practicas_GaleriaGranVia/blob/main/CARPETA-SEGUIMIENTO/unu.png)
 
 - Universidad Nacional de Ucayali
 
