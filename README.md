@@ -30,8 +30,8 @@
 
 # Actualizaciones Generales
 
-- Inicio de Proyecto
+- [x] Inicio de Proyecto
 
-- Acta de Proyecto Previo
+- [x] Acta de Proyecto Previo
 
-- Documentacion de Visita a la Empresa para los requerimientos previos
+- [x] Documentacion de Visita a la Empresa para los requerimientos previos
