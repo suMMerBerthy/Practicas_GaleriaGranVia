@@ -35,3 +35,11 @@
 - [x] Acta de Proyecto Previo
 
 - [x] Documentacion de Visita a la Empresa para los requerimientos previos
+
+- [x] Realizacion de Analisis previo requerido
+
+- [x] Construccion de Acta de Proyecto General No especifico
+
+- [x] Contruccion de un modulo de trabajo remoto con Git-GitHub
+
+- [x] Primera Actualizacion realizada con los primeros Documentos de Practicas
