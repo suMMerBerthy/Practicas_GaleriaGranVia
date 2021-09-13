@@ -43,3 +43,7 @@
 - [x] Contruccion de un modulo de trabajo remoto con Git-GitHub
 
 - [x] Primera Actualizacion realizada con los primeros Documentos de Practicas
+
+- [x] Realizacion de los requerimientos Funcionales y no Funcionales post Analisis Documental
+
+- [x] Realizacion de la tabla de estabilidad de requerimientos
